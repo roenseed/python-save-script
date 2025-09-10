@@ -16,7 +16,3 @@ No additional setup is needed—all necessary libraries are already included in 
 ## 3. Author  
 This repository is created by:
 - **Charoen Kasetruengphol (Roen)**  
-Feel free to connect with me if you have any questions, feedback, or collaboration opportunities.
-
-## Acknowledgments  
-Thank you for taking the time to explore my portfolio. I look forward to any feedback or opportunities that arise from this collection of work.
